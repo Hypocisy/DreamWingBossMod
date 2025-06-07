@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dream_wing_boss_mod:item/dream_wing_fireball"
+  }
+}
